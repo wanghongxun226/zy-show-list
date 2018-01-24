@@ -1,0 +1,24 @@
+{
+  "name": "zy-show-list",
+  "version": "1.0.0",
+  "description": "对象数据的分列平铺展示",
+  "main": "./index.js",
+  "repository": "git@github.com:wanghongxun226/zy-show-list.git",
+  "author": "whx",
+  "license": "MIT",
+  "dependencies": {
+    "aek-upload": "^1.0.0",
+    "antd": "^3.1.4",
+    "prop-types": "^15.6.0",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
+  },
+  "devDependencies": {
+    "babel-plugin-import": "^1.6.3",
+    "babel-preset-react-app": "^3.1.1",
+    "less": "^2.7.3",
+    "parcel-bundler": "^1.4.1",
+    "postcss-modules": "^1.1.0",
+    "standard": "^10.0.3"
+  }
+}
